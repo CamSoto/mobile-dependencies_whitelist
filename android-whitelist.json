@@ -529,12 +529,12 @@
     {
       "group": "com\\.mercadolibre\\.android\\.notifications_helpers",
       "name": "notifications_permissions",
-      "version": "3\\.\\+"
+      "version": "LOCAL-4.0.0-20230328164303"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.notifications_helpers",
       "name": "typed_modal",
-      "version": "3\\.\\+"
+      "version": "LOCAL-4.0.0-20230328164303"
     },
     {
       "group": "com\\.mercadolibre\\.android",
